@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ola, sou Yago!
 
-<!--
-**kamuidyr/kamuidyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnico em ti, atualmente estou a trabalho de Suporte ao Cliente I Negócios B2C na Vero
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software na Cruzeiro do Sul e tenho grande interesse na área de TI. Gosto de resolver problemas que podem ajudar no meu ambiente de trabalho, como, por exemplo, criar extensões para automatizar atendimentos, entre outros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas
+
+- C++
+- JavaScript
+- HTML
+- Git
+
+## Estudando
+
+- Engenharia de Softwer
+- Desenvolvimento web
+- Automação de Processos
+
+## Projetos
+
+Desenvolvi uma extensão de autoatendimento para facilitar o trabalho durante os atendimentos. A ferramenta preenche automaticamente os dados do cliente, deixando para o atendente apenas o registro do procedimento realizado. Com isso, foi possível agilizar o atendimento e ajudar na redução do TMA.
